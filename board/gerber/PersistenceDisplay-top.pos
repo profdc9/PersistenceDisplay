@@ -1,0 +1,606 @@
+### Module positions - created on 05/07/20 09:18:35 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                                PosX       PosY       Rot  Side
+C1        1 uF           C_0805_HandSoldering                                88.6580  -135.1260    0.0000  top
+C2        1 uF           C_0805_HandSoldering                                51.9680  -126.2660  270.0000  top
+C3        10 nF          C_0402_NoSilk                                      132.2080  -123.8160  180.0000  top
+C4        1 nF           C_0402_NoSilk                                      132.1680  -124.6960  180.0000  top
+C5        33 nF          C_0402_NoSilk                                      130.0480  -124.6760    0.0000  top
+C6        22 pF          C_0402_NoSilk                                      129.9280  -132.8060   90.0000  top
+C7        22 pF          C_0402_NoSilk                                      134.9520  -132.9140   90.0000  top
+C8        0.1 uF         C_0805_HandSoldering                               113.8480  -137.1760  180.0000  top
+C9        0.1 uF         C_0805_HandSoldering                                61.0580  -134.1360   90.0000  top
+C10       2.2 nF         C_0402_NoSilk                                      136.7330  -129.9810  180.0000  top
+C11       4.7 pF         C_0402_NoSilk                                      136.7130  -129.2910  180.0000  top
+C12       20 pF          C_0805_HandSoldering                               121.7980  -139.4260   90.0000  top
+C13       1.5 pF         C_0402_NoSilk                                      137.4830  -127.6710    0.0000  top
+C14       20 pF          C_0805_HandSoldering                               118.6280  -137.1460    0.0000  top
+C15       20 pF          C_0805_HandSoldering                                85.6180  -139.3660  270.0000  top
+C16       20 pF          C_0805_HandSoldering                                88.6780  -137.9960  180.0000  top
+C17       10 nF          C_0805_HandSoldering                                78.4580  -131.4860   90.0000  top
+C18       1 pF           C_0402_NoSilk                                      138.7730  -127.0010  270.0000  top
+C19       22 uF          C_0603                                              74.1680  -136.9060   90.0000  top
+C20       0.1 uF         C_0805_HandSoldering                               123.3800  -124.7400  270.0000  top
+C21       22 uF          C_0603                                              75.5015  -136.9009   90.0000  top
+C22       22 uF          C_0603                                              65.6844  -136.9111   90.0000  top
+C23       22 uF          C_0603                                              67.8180  -136.9060   90.0000  top
+C24       22 uF          C_0603                                              76.7800  -136.9000   90.0000  top
+C25       22 uF          C_0603                                              66.7563  -136.9441   90.0000  top
+C26       0.1 uF         C_0805_HandSoldering                               110.8980  -124.2760  270.0000  top
+C27       0.1 uF         C_0805_HandSoldering                                89.8980  -125.0760    0.0000  top
+C28       1 nF           C_0805_HandSoldering                                54.1480  -137.3760    0.0000  top
+C29       1 nF           C_0805_HandSoldering                               138.2680  -137.4960  270.0000  top
+C30       1000 uF        CP_Elec_10x10.5                                     60.8584  -123.4948    0.0000  top
+C31       4.7 uF         C_0805                                             130.3020  -122.4280  270.0000  top
+C32       22 uF          C_0603                                              69.0880  -136.9060   90.0000  top
+C33       22 uF          C_0603                                              70.3580  -136.9060   90.0000  top
+C34       22 uF          C_0603                                              72.8980  -136.9060   90.0000  top
+C35       22 uF          C_0603                                              71.6280  -136.9060   90.0000  top
+C36       22 uF          C_0603                                              67.9196  -139.7000  270.0000  top
+C37       22 uF          C_0603                                              71.6280  -139.5984  270.0000  top
+C38       22 uF          C_0603                                              77.9780  -136.9060   90.0000  top
+C39       22 uF          C_0603                                              72.8472  -139.6492  270.0000  top
+C40       22 uF          C_0603                                              66.8020  -139.7000  270.0000  top
+C41       22 uF          C_0603                                              65.6488  -139.7051  270.0000  top
+C42       22 uF          C_0603                                              69.1896  -139.7000  270.0000  top
+C43       22 uF          C_0603                                              75.3872  -139.6492  270.0000  top
+C44       22 uF          C_0603                                              74.1172  -139.6492  270.0000  top
+C45       22 uF          C_0603                                              70.4088  -139.7000  270.0000  top
+C46       22 uF          C_0603                                              77.8256  -139.6492  270.0000  top
+C47       22 uF          C_0603                                             130.9116  -137.2362   90.0000  top
+C48       22 uF          C_0603                                             128.6510  -137.2362   90.0000  top
+C49       22 uF          C_0603                                             129.7686  -137.2362   90.0000  top
+C50       22 uF          C_0603                                             127.5334  -137.2362   90.0000  top
+C51       22 uF          C_0603                                              79.0194  -139.6238  270.0000  top
+C52       22 uF          C_0603                                              80.2132  -139.9794  270.0000  top
+C53       22 uF          C_0603                                              76.6064  -139.6492  270.0000  top
+C54       22 uF          C_0603                                             126.4666  -137.2616   90.0000  top
+C55       22 uF          C_0603                                             125.3693  -137.2514   90.0000  top
+C56       22 uF          C_0603                                             132.1308  -137.2362   90.0000  top
+C57       22 uF          C_0603                                             134.1882  -137.2362   90.0000  top
+C58       22 uF          C_0603                                             128.6256  -139.9794  270.0000  top
+C59       22 uF          C_0603                                             127.5080  -140.0048  270.0000  top
+C60       22 uF          C_0603                                             129.7432  -139.9794  270.0000  top
+C61       22 uF          C_0603                                             134.2390  -139.9286  270.0000  top
+C62       22 uF          C_0603                                             130.9116  -139.9794  270.0000  top
+C63       22 uF          C_0603                                             132.0546  -139.9794  270.0000  top
+C64       22 uF          C_0603                                             133.1468  -137.2362   90.0000  top
+C65       22 uF          C_0603                                             133.0960  -139.9540  270.0000  top
+C66       22 uF          C_0603                                             126.4158  -139.9794  270.0000  top
+C67       22 uF          C_0603                                             125.2728  -139.9540  270.0000  top
+D1        M7             D_SMA                                               61.0000  -140.2900  180.0000  top
+D2        M7             D_SMA                                               53.9900  -140.2100  180.0000  top
+D3        M7             D_SMA                                              138.9634  -142.0622    0.0000  top
+D4        LED            LED_0805_HandSoldering                              63.5380  -134.2560  270.0000  top
+D5        M7             D_SMA                                              146.4818  -142.0368    0.0000  top
+D6        1N4148WS       D_SOD-323_HandSoldering                            119.6180  -125.5960    0.0000  top
+D7        1N4148WS       D_SOD-323_HandSoldering                            126.2980  -134.2660    0.0000  top
+D8        5.1V           D_MiniMELF                                          82.3722  -139.7254   90.0000  top
+D9        LED            LED_0805NoLabel                                    135.6360   -58.2930  270.0000  top
+D10       LED            LED_0805NoLabel                                    131.8260   -58.2930  270.0000  top
+D11       LED            LED_0805NoLabel                                    128.0160   -58.2930  270.0000  top
+D12       LED            LED_0805NoLabel                                    124.2060   -58.2930  270.0000  top
+D13       LED            LED_0805NoLabel                                    120.3960   -58.2930  270.0000  top
+D14       LED            LED_0805NoLabel                                    116.5860   -58.2930  270.0000  top
+D15       LED            LED_0805NoLabel                                    112.7760   -58.2930  270.0000  top
+D16       LED            LED_0805NoLabel                                    108.9660   -58.2930  270.0000  top
+D17       LED            LED_0805NoLabel                                    105.1560   -58.2930  270.0000  top
+D18       LED            LED_0805NoLabel                                    101.3460   -58.2930  270.0000  top
+D19       LED            LED_0805NoLabel                                     97.5360   -58.2930  270.0000  top
+D20       LED            LED_0805NoLabel                                     93.7260   -58.2930  270.0000  top
+D21       LED            LED_0805NoLabel                                     89.9160   -58.2930  270.0000  top
+D22       LED            LED_0805NoLabel                                     86.1060   -58.2930  270.0000  top
+D23       LED            LED_0805NoLabel                                     82.2960   -58.2930  270.0000  top
+D24       LED            LED_0805NoLabel                                     78.4860   -58.2930  270.0000  top
+D25       LED            LED_0805NoLabel                                     74.6760   -58.2930  270.0000  top
+D26       LED            LED_0805NoLabel                                     70.8660   -58.2930  270.0000  top
+D27       LED            LED_0805NoLabel                                     67.0560   -58.2930  270.0000  top
+D28       LED            LED_0805NoLabel                                     63.2460   -58.2930  270.0000  top
+D29       LED            LED_0805NoLabel                                    137.5410   -59.4360  270.0000  top
+D30       LED            LED_0805NoLabel                                    133.7310   -59.4360  270.0000  top
+D31       LED            LED_0805NoLabel                                    129.9210   -59.4360  270.0000  top
+D32       LED            LED_0805NoLabel                                    126.1110   -59.4360  270.0000  top
+D33       LED            LED_0805NoLabel                                    122.3010   -59.4360  270.0000  top
+D34       LED            LED_0805NoLabel                                    118.4910   -59.4360  270.0000  top
+D35       LED            LED_0805NoLabel                                    114.6810   -59.4360  270.0000  top
+D36       LED            LED_0805NoLabel                                    110.8710   -59.4360  270.0000  top
+D37       LED            LED_0805NoLabel                                    107.0610   -59.4360  270.0000  top
+D38       LED            LED_0805NoLabel                                    103.2510   -59.4360  270.0000  top
+D39       LED            LED_0805NoLabel                                     99.4410   -59.4360  270.0000  top
+D40       LED            LED_0805NoLabel                                     95.6310   -59.4360  270.0000  top
+D41       LED            LED_0805NoLabel                                     91.8210   -59.4360  270.0000  top
+D42       LED            LED_0805NoLabel                                     88.0110   -59.4360  270.0000  top
+D43       LED            LED_0805NoLabel                                     84.2010   -59.4360  270.0000  top
+D44       LED            LED_0805NoLabel                                     80.3910   -59.4360  270.0000  top
+D45       LED            LED_0805NoLabel                                     76.5810   -59.4360  270.0000  top
+D46       LED            LED_0805NoLabel                                     72.7710   -59.4360  270.0000  top
+D47       LED            LED_0805NoLabel                                     68.9610   -59.4360  270.0000  top
+D48       LED            LED_0805NoLabel                                     65.1510   -59.4360  270.0000  top
+D49       LED            LED_0805NoLabel                                    135.6360   -62.8650  270.0000  top
+D50       LED            LED_0805NoLabel                                    131.8260   -62.8650  270.0000  top
+D51       LED            LED_0805NoLabel                                    128.0160   -62.8650  270.0000  top
+D52       LED            LED_0805NoLabel                                    124.2060   -62.8650  270.0000  top
+D53       LED            LED_0805NoLabel                                    120.3960   -62.8650  270.0000  top
+D54       LED            LED_0805NoLabel                                    116.5860   -62.8650  270.0000  top
+D55       LED            LED_0805NoLabel                                    112.7760   -62.8650  270.0000  top
+D56       LED            LED_0805NoLabel                                    108.9660   -62.8650  270.0000  top
+D57       LED            LED_0805NoLabel                                    105.1560   -62.8650  270.0000  top
+D58       LED            LED_0805NoLabel                                    101.3460   -62.8650  270.0000  top
+D59       LED            LED_0805NoLabel                                     97.5360   -62.8650  270.0000  top
+D60       LED            LED_0805NoLabel                                     93.7260   -62.8650  270.0000  top
+D61       LED            LED_0805NoLabel                                     89.9160   -62.8650  270.0000  top
+D62       LED            LED_0805NoLabel                                     86.1060   -62.8650  270.0000  top
+D63       LED            LED_0805NoLabel                                     82.2960   -62.8650  270.0000  top
+D64       LED            LED_0805NoLabel                                     78.4860   -62.8650  270.0000  top
+D65       LED            LED_0805NoLabel                                     74.6760   -62.8650  270.0000  top
+D66       LED            LED_0805NoLabel                                     70.8660   -62.8650  270.0000  top
+D67       LED            LED_0805NoLabel                                     67.0560   -62.8650  270.0000  top
+D68       LED            LED_0805NoLabel                                     63.2460   -62.8650  270.0000  top
+D69       LED            LED_0805NoLabel                                    137.5410   -64.0080  270.0000  top
+D70       LED            LED_0805NoLabel                                    133.7310   -64.0080  270.0000  top
+D71       LED            LED_0805NoLabel                                    129.9210   -64.0080  270.0000  top
+D72       LED            LED_0805NoLabel                                    126.1110   -64.0080  270.0000  top
+D73       LED            LED_0805NoLabel                                    122.3010   -64.0080  270.0000  top
+D74       LED            LED_0805NoLabel                                    118.4910   -64.0080  270.0000  top
+D75       LED            LED_0805NoLabel                                    114.6810   -64.0080  270.0000  top
+D76       LED            LED_0805NoLabel                                    110.8710   -64.0080  270.0000  top
+D77       LED            LED_0805NoLabel                                    107.0610   -64.0080  270.0000  top
+D78       LED            LED_0805NoLabel                                    103.2510   -64.0080  270.0000  top
+D79       LED            LED_0805NoLabel                                     99.4410   -64.0080  270.0000  top
+D80       LED            LED_0805NoLabel                                     95.6310   -64.0080  270.0000  top
+D81       LED            LED_0805NoLabel                                     91.8210   -64.0080  270.0000  top
+D82       LED            LED_0805NoLabel                                     88.0110   -64.0080  270.0000  top
+D83       LED            LED_0805NoLabel                                     84.2010   -64.0080  270.0000  top
+D84       LED            LED_0805NoLabel                                     80.3910   -64.0080  270.0000  top
+D85       LED            LED_0805NoLabel                                     76.5810   -64.0080  270.0000  top
+D86       LED            LED_0805NoLabel                                     72.7710   -64.0080  270.0000  top
+D87       LED            LED_0805NoLabel                                     68.9610   -64.0080  270.0000  top
+D88       LED            LED_0805NoLabel                                     65.1510   -64.0080  270.0000  top
+D89       LED            LED_0805NoLabel                                    135.6360   -67.4370  270.0000  top
+D90       LED            LED_0805NoLabel                                    131.8260   -67.4370  270.0000  top
+D91       LED            LED_0805NoLabel                                    128.0160   -67.4370  270.0000  top
+D92       LED            LED_0805NoLabel                                    124.2060   -67.4370  270.0000  top
+D93       LED            LED_0805NoLabel                                    120.3960   -67.4370  270.0000  top
+D94       LED            LED_0805NoLabel                                    116.5860   -67.4370  270.0000  top
+D95       LED            LED_0805NoLabel                                    112.7760   -67.4370  270.0000  top
+D96       LED            LED_0805NoLabel                                    108.9660   -67.4370  270.0000  top
+D97       LED            LED_0805NoLabel                                    105.1560   -67.4370  270.0000  top
+D98       LED            LED_0805NoLabel                                    101.3460   -67.4370  270.0000  top
+D99       LED            LED_0805NoLabel                                     97.5360   -67.4370  270.0000  top
+D100      LED            LED_0805NoLabel                                     93.7260   -67.4370  270.0000  top
+D101      LED            LED_0805NoLabel                                     89.9160   -67.4370  270.0000  top
+D102      LED            LED_0805NoLabel                                     86.1060   -67.4370  270.0000  top
+D103      LED            LED_0805NoLabel                                     82.2960   -67.4370  270.0000  top
+D104      LED            LED_0805NoLabel                                     78.4860   -67.4370  270.0000  top
+D105      LED            LED_0805NoLabel                                     74.6760   -67.4370  270.0000  top
+D106      LED            LED_0805NoLabel                                     70.8660   -67.4370  270.0000  top
+D107      LED            LED_0805NoLabel                                     67.0560   -67.4370  270.0000  top
+D108      LED            LED_0805NoLabel                                     63.2460   -67.4370  270.0000  top
+D109      LED            LED_0805NoLabel                                    137.5410   -68.5800  270.0000  top
+D110      LED            LED_0805NoLabel                                    133.7310   -68.5800  270.0000  top
+D111      LED            LED_0805NoLabel                                    129.9210   -68.5800  270.0000  top
+D112      LED            LED_0805NoLabel                                    126.1110   -68.5800  270.0000  top
+D113      LED            LED_0805NoLabel                                    122.3010   -68.5800  270.0000  top
+D114      LED            LED_0805NoLabel                                    118.4910   -68.5800  270.0000  top
+D115      LED            LED_0805NoLabel                                    114.6810   -68.5800  270.0000  top
+D116      LED            LED_0805NoLabel                                    110.8710   -68.5800  270.0000  top
+D117      LED            LED_0805NoLabel                                    107.0610   -68.5800  270.0000  top
+D118      LED            LED_0805NoLabel                                    103.2510   -68.5800  270.0000  top
+D119      LED            LED_0805NoLabel                                     99.4410   -68.5800  270.0000  top
+D120      LED            LED_0805NoLabel                                     95.6310   -68.5800  270.0000  top
+D121      LED            LED_0805NoLabel                                     91.8210   -68.5800  270.0000  top
+D122      LED            LED_0805NoLabel                                     88.0110   -68.5800  270.0000  top
+D123      LED            LED_0805NoLabel                                     84.2010   -68.5800  270.0000  top
+D124      LED            LED_0805NoLabel                                     80.3910   -68.5800  270.0000  top
+D125      LED            LED_0805NoLabel                                     76.5810   -68.5800  270.0000  top
+D126      LED            LED_0805NoLabel                                     72.7710   -68.5800  270.0000  top
+D127      LED            LED_0805NoLabel                                     68.9610   -68.5800  270.0000  top
+D128      LED            LED_0805NoLabel                                     65.1510   -68.5800  270.0000  top
+D129      LED            LED_0805NoLabel                                    135.6360   -72.0090  270.0000  top
+D130      LED            LED_0805NoLabel                                    131.8260   -72.0090  270.0000  top
+D131      LED            LED_0805NoLabel                                    128.0160   -72.0090  270.0000  top
+D132      LED            LED_0805NoLabel                                    124.2060   -72.0090  270.0000  top
+D133      LED            LED_0805NoLabel                                    120.3960   -72.0090  270.0000  top
+D134      LED            LED_0805NoLabel                                    116.5860   -72.0090  270.0000  top
+D135      LED            LED_0805NoLabel                                    112.7760   -72.0090  270.0000  top
+D136      LED            LED_0805NoLabel                                    108.9660   -72.0090  270.0000  top
+D137      LED            LED_0805NoLabel                                    105.1560   -72.0090  270.0000  top
+D138      LED            LED_0805NoLabel                                    101.3460   -72.0090  270.0000  top
+D139      LED            LED_0805NoLabel                                     97.5360   -72.0090  270.0000  top
+D140      LED            LED_0805NoLabel                                     93.7260   -72.0090  270.0000  top
+D141      LED            LED_0805NoLabel                                     89.9160   -72.0090  270.0000  top
+D142      LED            LED_0805NoLabel                                     86.1060   -72.0090  270.0000  top
+D143      LED            LED_0805NoLabel                                     82.2960   -72.0090  270.0000  top
+D144      LED            LED_0805NoLabel                                     78.4860   -72.0090  270.0000  top
+D145      LED            LED_0805NoLabel                                     74.6760   -72.0090  270.0000  top
+D146      LED            LED_0805NoLabel                                     70.8660   -72.0090  270.0000  top
+D147      LED            LED_0805NoLabel                                     67.0560   -72.0090  270.0000  top
+D148      LED            LED_0805NoLabel                                     63.2460   -72.0090  270.0000  top
+D149      LED            LED_0805NoLabel                                    137.5410   -73.1520  270.0000  top
+D150      LED            LED_0805NoLabel                                    133.7310   -73.1520  270.0000  top
+D151      LED            LED_0805NoLabel                                    129.9210   -73.1520  270.0000  top
+D152      LED            LED_0805NoLabel                                    126.1110   -73.1520  270.0000  top
+D153      LED            LED_0805NoLabel                                    122.3010   -73.1520  270.0000  top
+D154      LED            LED_0805NoLabel                                    118.4910   -73.1520  270.0000  top
+D155      LED            LED_0805NoLabel                                    114.6810   -73.1520  270.0000  top
+D156      LED            LED_0805NoLabel                                    110.8710   -73.1520  270.0000  top
+D157      LED            LED_0805NoLabel                                    107.0610   -73.1520  270.0000  top
+D158      LED            LED_0805NoLabel                                    103.2510   -73.1520  270.0000  top
+D159      LED            LED_0805NoLabel                                     99.4410   -73.1520  270.0000  top
+D160      LED            LED_0805NoLabel                                     95.6310   -73.1520  270.0000  top
+D161      LED            LED_0805NoLabel                                     91.8210   -73.1520  270.0000  top
+D162      LED            LED_0805NoLabel                                     88.0110   -73.1520  270.0000  top
+D163      LED            LED_0805NoLabel                                     84.2010   -73.1520  270.0000  top
+D164      LED            LED_0805NoLabel                                     80.3910   -73.1520  270.0000  top
+D165      LED            LED_0805NoLabel                                     76.5810   -73.1520  270.0000  top
+D166      LED            LED_0805NoLabel                                     72.7710   -73.1520  270.0000  top
+D167      LED            LED_0805NoLabel                                     68.9610   -73.1520  270.0000  top
+D168      LED            LED_0805NoLabel                                     65.1510   -73.1520  270.0000  top
+D169      LED            LED_0805NoLabel                                    135.6360   -76.5810  270.0000  top
+D170      LED            LED_0805NoLabel                                    131.8260   -76.5810  270.0000  top
+D171      LED            LED_0805NoLabel                                    128.0160   -76.5810  270.0000  top
+D172      LED            LED_0805NoLabel                                    124.2060   -76.5810  270.0000  top
+D173      LED            LED_0805NoLabel                                    120.3960   -76.5810  270.0000  top
+D174      LED            LED_0805NoLabel                                    116.5860   -76.5810  270.0000  top
+D175      LED            LED_0805NoLabel                                    112.7760   -76.5810  270.0000  top
+D176      LED            LED_0805NoLabel                                    108.9660   -76.5810  270.0000  top
+D177      LED            LED_0805NoLabel                                    105.1560   -76.5810  270.0000  top
+D178      LED            LED_0805NoLabel                                    101.3460   -76.5810  270.0000  top
+D179      LED            LED_0805NoLabel                                     97.5360   -76.5810  270.0000  top
+D180      LED            LED_0805NoLabel                                     93.7260   -76.5810  270.0000  top
+D181      LED            LED_0805NoLabel                                     89.9160   -76.5810  270.0000  top
+D182      LED            LED_0805NoLabel                                     86.1060   -76.5810  270.0000  top
+D183      LED            LED_0805NoLabel                                     82.2960   -76.5810  270.0000  top
+D184      LED            LED_0805NoLabel                                     78.4860   -76.5810  270.0000  top
+D185      LED            LED_0805NoLabel                                     74.6760   -76.5810  270.0000  top
+D186      LED            LED_0805NoLabel                                     70.8660   -76.5810  270.0000  top
+D187      LED            LED_0805NoLabel                                     67.0560   -76.5810  270.0000  top
+D188      LED            LED_0805NoLabel                                     63.2460   -76.5810  270.0000  top
+D189      LED            LED_0805NoLabel                                    137.5410   -77.7240  270.0000  top
+D190      LED            LED_0805NoLabel                                    133.7310   -77.7240  270.0000  top
+D191      LED            LED_0805NoLabel                                    129.9210   -77.7240  270.0000  top
+D192      LED            LED_0805NoLabel                                    126.1110   -77.7240  270.0000  top
+D193      LED            LED_0805NoLabel                                    122.3010   -77.7240  270.0000  top
+D194      LED            LED_0805NoLabel                                    118.4910   -77.7240  270.0000  top
+D195      LED            LED_0805NoLabel                                    114.6810   -77.7240  270.0000  top
+D196      LED            LED_0805NoLabel                                    110.8710   -77.7240  270.0000  top
+D197      LED            LED_0805NoLabel                                    107.0610   -77.7240  270.0000  top
+D198      LED            LED_0805NoLabel                                    103.2510   -77.7240  270.0000  top
+D199      LED            LED_0805NoLabel                                     99.4410   -77.7240  270.0000  top
+D200      LED            LED_0805NoLabel                                     95.6310   -77.7240  270.0000  top
+D201      LED            LED_0805NoLabel                                     91.8210   -77.7240  270.0000  top
+D202      LED            LED_0805NoLabel                                     88.0110   -77.7240  270.0000  top
+D203      LED            LED_0805NoLabel                                     84.2010   -77.7240  270.0000  top
+D204      LED            LED_0805NoLabel                                     80.3910   -77.7240  270.0000  top
+D205      LED            LED_0805NoLabel                                     76.5810   -77.7240  270.0000  top
+D206      LED            LED_0805NoLabel                                     72.7710   -77.7240  270.0000  top
+D207      LED            LED_0805NoLabel                                     68.9610   -77.7240  270.0000  top
+D208      LED            LED_0805NoLabel                                     65.1510   -77.7240  270.0000  top
+D209      LED            LED_0805NoLabel                                    135.6360   -81.1530  270.0000  top
+D210      LED            LED_0805NoLabel                                    131.8260   -81.1530  270.0000  top
+D211      LED            LED_0805NoLabel                                    128.0160   -81.1530  270.0000  top
+D212      LED            LED_0805NoLabel                                    124.2060   -81.1530  270.0000  top
+D213      LED            LED_0805NoLabel                                    120.3960   -81.1530  270.0000  top
+D214      LED            LED_0805NoLabel                                    116.5860   -81.1530  270.0000  top
+D215      LED            LED_0805NoLabel                                    112.7760   -81.1530  270.0000  top
+D216      LED            LED_0805NoLabel                                    108.9660   -81.1530  270.0000  top
+D217      LED            LED_0805NoLabel                                    105.1560   -81.1530  270.0000  top
+D218      LED            LED_0805NoLabel                                    101.3460   -81.1530  270.0000  top
+D219      LED            LED_0805NoLabel                                     97.5360   -81.1530  270.0000  top
+D220      LED            LED_0805NoLabel                                     93.7260   -81.1530  270.0000  top
+D221      LED            LED_0805NoLabel                                     89.9160   -81.1530  270.0000  top
+D222      LED            LED_0805NoLabel                                     86.1060   -81.1530  270.0000  top
+D223      LED            LED_0805NoLabel                                     82.2960   -81.1530  270.0000  top
+D224      LED            LED_0805NoLabel                                     78.4860   -81.1530  270.0000  top
+D225      LED            LED_0805NoLabel                                     74.6760   -81.1530  270.0000  top
+D226      LED            LED_0805NoLabel                                     70.8660   -81.1530  270.0000  top
+D227      LED            LED_0805NoLabel                                     67.0560   -81.1530  270.0000  top
+D228      LED            LED_0805NoLabel                                     63.2460   -81.1530  270.0000  top
+D229      LED            LED_0805NoLabel                                    137.5410   -82.2960  270.0000  top
+D230      LED            LED_0805NoLabel                                    133.7310   -82.2960  270.0000  top
+D231      LED            LED_0805NoLabel                                    129.9210   -82.2960  270.0000  top
+D232      LED            LED_0805NoLabel                                    126.1110   -82.2960  270.0000  top
+D233      LED            LED_0805NoLabel                                    122.3010   -82.2960  270.0000  top
+D234      LED            LED_0805NoLabel                                    118.4910   -82.2960  270.0000  top
+D235      LED            LED_0805NoLabel                                    114.6810   -82.2960  270.0000  top
+D236      LED            LED_0805NoLabel                                    110.8710   -82.2960  270.0000  top
+D237      LED            LED_0805NoLabel                                    107.0610   -82.2960  270.0000  top
+D238      LED            LED_0805NoLabel                                    103.2510   -82.2960  270.0000  top
+D239      LED            LED_0805NoLabel                                     99.4410   -82.2960  270.0000  top
+D240      LED            LED_0805NoLabel                                     95.6310   -82.2960  270.0000  top
+D241      LED            LED_0805NoLabel                                     91.8210   -82.2960  270.0000  top
+D242      LED            LED_0805NoLabel                                     88.0110   -82.2960  270.0000  top
+D243      LED            LED_0805NoLabel                                     84.2010   -82.2960  270.0000  top
+D244      LED            LED_0805NoLabel                                     80.3910   -82.2960  270.0000  top
+D245      LED            LED_0805NoLabel                                     76.5810   -82.2960  270.0000  top
+D246      LED            LED_0805NoLabel                                     72.7710   -82.2960  270.0000  top
+D247      LED            LED_0805NoLabel                                     68.9610   -82.2960  270.0000  top
+D248      LED            LED_0805NoLabel                                     65.1510   -82.2960  270.0000  top
+D249      LED            LED_0805NoLabel                                    135.6360   -85.7250  270.0000  top
+D250      LED            LED_0805NoLabel                                    131.8260   -85.7250  270.0000  top
+D251      LED            LED_0805NoLabel                                    128.0160   -85.7250  270.0000  top
+D252      LED            LED_0805NoLabel                                    124.2060   -85.7250  270.0000  top
+D253      LED            LED_0805NoLabel                                    120.3960   -85.7250  270.0000  top
+D254      LED            LED_0805NoLabel                                    116.5860   -85.7250  270.0000  top
+D255      LED            LED_0805NoLabel                                    112.7760   -85.7250  270.0000  top
+D256      LED            LED_0805NoLabel                                    108.9660   -85.7250  270.0000  top
+D257      LED            LED_0805NoLabel                                    105.1560   -85.7250  270.0000  top
+D258      LED            LED_0805NoLabel                                    101.3460   -85.7250  270.0000  top
+D259      LED            LED_0805NoLabel                                     97.5360   -85.7250  270.0000  top
+D260      LED            LED_0805NoLabel                                     93.7260   -85.7250  270.0000  top
+D261      LED            LED_0805NoLabel                                     89.9160   -85.7250  270.0000  top
+D262      LED            LED_0805NoLabel                                     86.1060   -85.7250  270.0000  top
+D263      LED            LED_0805NoLabel                                     82.2960   -85.7250  270.0000  top
+D264      LED            LED_0805NoLabel                                     78.4860   -85.7250  270.0000  top
+D265      LED            LED_0805NoLabel                                     74.6760   -85.7250  270.0000  top
+D266      LED            LED_0805NoLabel                                     70.8660   -85.7250  270.0000  top
+D267      LED            LED_0805NoLabel                                     67.0560   -85.7250  270.0000  top
+D268      LED            LED_0805NoLabel                                     63.2460   -85.7250  270.0000  top
+D269      LED            LED_0805NoLabel                                    137.5410   -86.8680  270.0000  top
+D270      LED            LED_0805NoLabel                                    133.7310   -86.8680  270.0000  top
+D271      LED            LED_0805NoLabel                                    129.9210   -86.8680  270.0000  top
+D272      LED            LED_0805NoLabel                                    126.1110   -86.8680  270.0000  top
+D273      LED            LED_0805NoLabel                                    122.3010   -86.8680  270.0000  top
+D274      LED            LED_0805NoLabel                                    118.4910   -86.8680  270.0000  top
+D275      LED            LED_0805NoLabel                                    114.6810   -86.8680  270.0000  top
+D276      LED            LED_0805NoLabel                                    110.8710   -86.8680  270.0000  top
+D277      LED            LED_0805NoLabel                                    107.0610   -86.8680  270.0000  top
+D278      LED            LED_0805NoLabel                                    103.2510   -86.8680  270.0000  top
+D279      LED            LED_0805NoLabel                                     99.4410   -86.8680  270.0000  top
+D280      LED            LED_0805NoLabel                                     95.6310   -86.8680  270.0000  top
+D281      LED            LED_0805NoLabel                                     91.8210   -86.8680  270.0000  top
+D282      LED            LED_0805NoLabel                                     88.0110   -86.8680  270.0000  top
+D283      LED            LED_0805NoLabel                                     84.2010   -86.8680  270.0000  top
+D284      LED            LED_0805NoLabel                                     80.3910   -86.8680  270.0000  top
+D285      LED            LED_0805NoLabel                                     76.5810   -86.8680  270.0000  top
+D286      LED            LED_0805NoLabel                                     72.7710   -86.8680  270.0000  top
+D287      LED            LED_0805NoLabel                                     68.9610   -86.8680  270.0000  top
+D288      LED            LED_0805NoLabel                                     65.1510   -86.8680  270.0000  top
+D289      LED            LED_0805NoLabel                                    135.6360   -90.2970  270.0000  top
+D290      LED            LED_0805NoLabel                                    131.8260   -90.2970  270.0000  top
+D291      LED            LED_0805NoLabel                                    128.0160   -90.2970  270.0000  top
+D292      LED            LED_0805NoLabel                                    124.2060   -90.2970  270.0000  top
+D293      LED            LED_0805NoLabel                                    120.3960   -90.2970  270.0000  top
+D294      LED            LED_0805NoLabel                                    116.5860   -90.2970  270.0000  top
+D295      LED            LED_0805NoLabel                                    112.7760   -90.2970  270.0000  top
+D296      LED            LED_0805NoLabel                                    108.9660   -90.2970  270.0000  top
+D297      LED            LED_0805NoLabel                                    105.1560   -90.2970  270.0000  top
+D298      LED            LED_0805NoLabel                                    101.3460   -90.2970  270.0000  top
+D299      LED            LED_0805NoLabel                                     97.5360   -90.2970  270.0000  top
+D300      LED            LED_0805NoLabel                                     93.7260   -90.2970  270.0000  top
+D301      LED            LED_0805NoLabel                                     89.9160   -90.2970  270.0000  top
+D302      LED            LED_0805NoLabel                                     86.1060   -90.2970  270.0000  top
+D303      LED            LED_0805NoLabel                                     82.2960   -90.2970  270.0000  top
+D304      LED            LED_0805NoLabel                                     78.4860   -90.2970  270.0000  top
+D305      LED            LED_0805NoLabel                                     74.6760   -90.2970  270.0000  top
+D306      LED            LED_0805NoLabel                                     70.8660   -90.2970  270.0000  top
+D307      LED            LED_0805NoLabel                                     67.0560   -90.2970  270.0000  top
+D308      LED            LED_0805NoLabel                                     63.2460   -90.2970  270.0000  top
+D309      LED            LED_0805NoLabel                                    137.5410   -91.4400  270.0000  top
+D310      LED            LED_0805NoLabel                                    133.7310   -91.4400  270.0000  top
+D311      LED            LED_0805NoLabel                                    129.9210   -91.4400  270.0000  top
+D312      LED            LED_0805NoLabel                                    126.1110   -91.4400  270.0000  top
+D313      LED            LED_0805NoLabel                                    122.3010   -91.4400  270.0000  top
+D314      LED            LED_0805NoLabel                                    118.4910   -91.4400  270.0000  top
+D315      LED            LED_0805NoLabel                                    114.6810   -91.4400  270.0000  top
+D316      LED            LED_0805NoLabel                                    110.8710   -91.4400  270.0000  top
+D317      LED            LED_0805NoLabel                                    107.0610   -91.4400  270.0000  top
+D318      LED            LED_0805NoLabel                                    103.2510   -91.4400  270.0000  top
+D319      LED            LED_0805NoLabel                                     99.4410   -91.4400  270.0000  top
+D320      LED            LED_0805NoLabel                                     95.6310   -91.4400  270.0000  top
+D321      LED            LED_0805NoLabel                                     91.8210   -91.4400  270.0000  top
+D322      LED            LED_0805NoLabel                                     88.0110   -91.4400  270.0000  top
+D323      LED            LED_0805NoLabel                                     84.2010   -91.4400  270.0000  top
+D324      LED            LED_0805NoLabel                                     80.3910   -91.4400  270.0000  top
+D325      LED            LED_0805NoLabel                                     76.5810   -91.4400  270.0000  top
+D326      LED            LED_0805NoLabel                                     72.7710   -91.4400  270.0000  top
+D327      LED            LED_0805NoLabel                                     68.9610   -91.4400  270.0000  top
+D328      LED            LED_0805NoLabel                                     65.1510   -91.4400  270.0000  top
+D329      LED            LED_0805NoLabel                                    135.6360   -94.8690  270.0000  top
+D330      LED            LED_0805NoLabel                                    131.8260   -94.8690  270.0000  top
+D331      LED            LED_0805NoLabel                                    128.0160   -94.8690  270.0000  top
+D332      LED            LED_0805NoLabel                                    124.2060   -94.8690  270.0000  top
+D333      LED            LED_0805NoLabel                                    120.3960   -94.8690  270.0000  top
+D334      LED            LED_0805NoLabel                                    116.5860   -94.8690  270.0000  top
+D335      LED            LED_0805NoLabel                                    112.7760   -94.8690  270.0000  top
+D336      LED            LED_0805NoLabel                                    108.9660   -94.8690  270.0000  top
+D337      LED            LED_0805NoLabel                                    105.1560   -94.8690  270.0000  top
+D338      LED            LED_0805NoLabel                                    101.3460   -94.8690  270.0000  top
+D339      LED            LED_0805NoLabel                                     97.5360   -94.8690  270.0000  top
+D340      LED            LED_0805NoLabel                                     93.7260   -94.8690  270.0000  top
+D341      LED            LED_0805NoLabel                                     89.9160   -94.8690  270.0000  top
+D342      LED            LED_0805NoLabel                                     86.1060   -94.8690  270.0000  top
+D343      LED            LED_0805NoLabel                                     82.2960   -94.8690  270.0000  top
+D344      LED            LED_0805NoLabel                                     78.4860   -94.8690  270.0000  top
+D345      LED            LED_0805NoLabel                                     74.6760   -94.8690  270.0000  top
+D346      LED            LED_0805NoLabel                                     70.8660   -94.8690  270.0000  top
+D347      LED            LED_0805NoLabel                                     67.0560   -94.8690  270.0000  top
+D348      LED            LED_0805NoLabel                                     63.2460   -94.8690  270.0000  top
+D349      LED            LED_0805NoLabel                                    137.5410   -96.0120  270.0000  top
+D350      LED            LED_0805NoLabel                                    133.7310   -96.0120  270.0000  top
+D351      LED            LED_0805NoLabel                                    129.9210   -96.0120  270.0000  top
+D352      LED            LED_0805NoLabel                                    126.1110   -96.0120  270.0000  top
+D353      LED            LED_0805NoLabel                                    122.3010   -96.0120  270.0000  top
+D354      LED            LED_0805NoLabel                                    118.4910   -96.0120  270.0000  top
+D355      LED            LED_0805NoLabel                                    114.6810   -96.0120  270.0000  top
+D356      LED            LED_0805NoLabel                                    110.8710   -96.0120  270.0000  top
+D357      LED            LED_0805NoLabel                                    107.0610   -96.0120  270.0000  top
+D358      LED            LED_0805NoLabel                                    103.2510   -96.0120  270.0000  top
+D359      LED            LED_0805NoLabel                                     99.4410   -96.0120  270.0000  top
+D360      LED            LED_0805NoLabel                                     95.6310   -96.0120  270.0000  top
+D361      LED            LED_0805NoLabel                                     91.8210   -96.0120  270.0000  top
+D362      LED            LED_0805NoLabel                                     88.0110   -96.0120  270.0000  top
+D363      LED            LED_0805NoLabel                                     84.2010   -96.0120  270.0000  top
+D364      LED            LED_0805NoLabel                                     80.3910   -96.0120  270.0000  top
+D365      LED            LED_0805NoLabel                                     76.5810   -96.0120  270.0000  top
+D366      LED            LED_0805NoLabel                                     72.7710   -96.0120  270.0000  top
+D367      LED            LED_0805NoLabel                                     68.9610   -96.0120  270.0000  top
+D368      LED            LED_0805NoLabel                                     65.1510   -96.0120  270.0000  top
+D369      LED            LED_0805NoLabel                                    135.6360   -99.4410  270.0000  top
+D370      LED            LED_0805NoLabel                                    131.8260   -99.4410  270.0000  top
+D371      LED            LED_0805NoLabel                                    128.0160   -99.4410  270.0000  top
+D372      LED            LED_0805NoLabel                                    124.2060   -99.4410  270.0000  top
+D373      LED            LED_0805NoLabel                                    120.3960   -99.4410  270.0000  top
+D374      LED            LED_0805NoLabel                                    116.5860   -99.4410  270.0000  top
+D375      LED            LED_0805NoLabel                                    112.7760   -99.4410  270.0000  top
+D376      LED            LED_0805NoLabel                                    108.9660   -99.4410  270.0000  top
+D377      LED            LED_0805NoLabel                                    105.1560   -99.4410  270.0000  top
+D378      LED            LED_0805NoLabel                                    101.3460   -99.4410  270.0000  top
+D379      LED            LED_0805NoLabel                                     97.5360   -99.4410  270.0000  top
+D380      LED            LED_0805NoLabel                                     93.7260   -99.4410  270.0000  top
+D381      LED            LED_0805NoLabel                                     89.9160   -99.4410  270.0000  top
+D382      LED            LED_0805NoLabel                                     86.1060   -99.4410  270.0000  top
+D383      LED            LED_0805NoLabel                                     82.2960   -99.4410  270.0000  top
+D384      LED            LED_0805NoLabel                                     78.4860   -99.4410  270.0000  top
+D385      LED            LED_0805NoLabel                                     74.6760   -99.4410  270.0000  top
+D386      LED            LED_0805NoLabel                                     70.8660   -99.4410  270.0000  top
+D387      LED            LED_0805NoLabel                                     67.0560   -99.4410  270.0000  top
+D388      LED            LED_0805NoLabel                                     63.2460   -99.4410  270.0000  top
+D389      LED            LED_0805NoLabel                                    137.5410  -100.5840  270.0000  top
+D390      LED            LED_0805NoLabel                                    133.7310  -100.5840  270.0000  top
+D391      LED            LED_0805NoLabel                                    129.9210  -100.5840  270.0000  top
+D392      LED            LED_0805NoLabel                                    126.1110  -100.5840  270.0000  top
+D393      LED            LED_0805NoLabel                                    122.3010  -100.5840  270.0000  top
+D394      LED            LED_0805NoLabel                                    118.4910  -100.5840  270.0000  top
+D395      LED            LED_0805NoLabel                                    114.6810  -100.5840  270.0000  top
+D396      LED            LED_0805NoLabel                                    110.8710  -100.5840  270.0000  top
+D397      LED            LED_0805NoLabel                                    107.0610  -100.5840  270.0000  top
+D398      LED            LED_0805NoLabel                                    103.2510  -100.5840  270.0000  top
+D399      LED            LED_0805NoLabel                                     99.4410  -100.5840  270.0000  top
+D400      LED            LED_0805NoLabel                                     95.6310  -100.5840  270.0000  top
+D401      LED            LED_0805NoLabel                                     91.8210  -100.5840  270.0000  top
+D402      LED            LED_0805NoLabel                                     88.0110  -100.5840  270.0000  top
+D403      LED            LED_0805NoLabel                                     84.2010  -100.5840  270.0000  top
+D404      LED            LED_0805NoLabel                                     80.3910  -100.5840  270.0000  top
+D405      LED            LED_0805NoLabel                                     76.5810  -100.5840  270.0000  top
+D406      LED            LED_0805NoLabel                                     72.7710  -100.5840  270.0000  top
+D407      LED            LED_0805NoLabel                                     68.9610  -100.5840  270.0000  top
+D408      LED            LED_0805NoLabel                                     65.1510  -100.5840  270.0000  top
+L1        8.2 nH         L_0402                                             134.8780  -128.1060   90.0000  top
+L2        3.9 nH         L_0402                                             135.9130  -127.6410  180.0000  top
+L3        2.7 nH         L_0402                                             135.4930  -128.8910   90.0000  top
+Q1        2N7002         SOT-23                                             142.8980  -113.2760   90.0000  top
+Q2        2N7002         SOT-23                                             106.8980  -113.2760   90.0000  top
+Q3        2N7002         SOT-23                                              71.1980  -113.1760   90.0000  top
+Q4        2N7002         SOT-23                                             138.3980  -113.3760   90.0000  top
+Q5        2N7002         SOT-23                                             102.4980  -113.2760   90.0000  top
+Q6        2N7002         SOT-23                                              66.6980  -113.2760   90.0000  top
+Q7        2N7002         SOT-23                                             133.7980  -113.3760   90.0000  top
+Q8        2N7002         SOT-23                                              98.0980  -113.1760   90.0000  top
+Q9        2N7002         SOT-23                                              62.0980  -113.2760   90.0000  top
+Q10       2N7002         SOT-23                                             129.2980  -113.3760   90.0000  top
+Q11       2N7002         SOT-23                                              93.6480  -113.2760   90.0000  top
+Q12       2N7002         SOT-23                                              57.6480  -113.2960   90.0000  top
+Q13       2N7002         SOT-23                                             124.6980  -113.3760   90.0000  top
+Q14       2N7002         SOT-23                                              89.1480  -113.2760   90.0000  top
+Q15       2N7002         SOT-23                                              59.9980   -57.7760    0.0000  top
+Q16       2N7002         SOT-23                                             120.2980  -113.3760   90.0000  top
+Q17       2N7002         SOT-23                                              84.4980  -113.2760   90.0000  top
+Q18       2N7002         SOT-23                                              59.8980   -81.3660    0.0000  top
+Q19       2N7002         SOT-23                                             115.8980  -113.2760   90.0000  top
+Q20       2N7002         SOT-23                                              80.0980  -113.3760   90.0000  top
+Q21       2N7002         SOT-23                                              59.9980   -62.5760    0.0000  top
+Q22       2N7002         SOT-23                                             111.3980  -113.2760   90.0000  top
+Q23       2N7002         SOT-23                                              75.6920  -113.2840   90.0000  top
+Q24       2N7002         SOT-23                                              59.9080   -86.0860    0.0000  top
+Q25       2N7002         SOT-23                                              60.0980   -67.2760    0.0000  top
+Q26       2N7002         SOT-23                                              59.9080   -90.5560    0.0000  top
+Q27       2N7002         SOT-23                                              60.0480   -71.9260    0.0000  top
+Q28       2N7002         SOT-23                                              59.9280   -95.4060    0.0000  top
+Q29       2N7002         SOT-23                                              59.8980   -76.5760    0.0000  top
+Q30       2N7002         SOT-23                                              59.8980  -100.2760    0.0000  top
+Q31       2N7002         SOT-23                                             140.8980  -100.1760  180.0000  top
+Q32       2N7002         SOT-23                                             140.8980   -76.6760  180.0000  top
+Q33       2N7002         SOT-23                                             140.8980   -95.4760  180.0000  top
+Q34       2N7002         SOT-23                                             140.8980   -72.0760  180.0000  top
+Q35       2N7002         SOT-23                                             140.8980   -90.7760  180.0000  top
+Q36       2N7002         SOT-23                                             140.8980   -67.2760  180.0000  top
+Q37       2N7002         SOT-23                                             140.8980   -86.0760  180.0000  top
+Q38       2N7002         SOT-23                                             140.8980   -62.6760  180.0000  top
+Q39       2N7002         SOT-23                                             140.8980   -81.3760  180.0000  top
+Q40       2N7002         SOT-23                                             140.7980   -58.0760  180.0000  top
+Q41       SS8550         SOT-23                                             107.2300  -109.9300    0.0000  top
+Q42       SS8550         SOT-23                                              73.4060  -109.7280    0.0000  top
+Q43       SS8550         SOT-23                                             143.1100  -109.9300    0.0000  top
+Q44       SS8550         SOT-23                                             102.6600  -109.9300    0.0000  top
+Q45       SS8550         SOT-23                                              69.0880  -109.7280    0.0000  top
+Q46       SS8550         SOT-23                                             138.6800  -109.6900    0.0000  top
+Q47       SS8550         SOT-23                                              98.5400  -109.9200    0.0000  top
+Q48       SS8550         SOT-23                                              64.7700  -109.7280    0.0000  top
+Q49       SS8550         SOT-23                                             134.0500  -109.8000    0.0000  top
+Q50       SS8550         SOT-23                                              94.4100  -109.8500    0.0000  top
+Q51       SS8550         SOT-23                                              59.9440  -109.7280    0.0000  top
+Q52       SS8550         SOT-23                                             129.6600  -109.8900    0.0000  top
+Q53       SS8550         SOT-23                                              90.4240  -109.7280    0.0000  top
+Q54       SS8550         SOT-23                                             124.9300  -109.7700    0.0000  top
+Q55       SS8550         SOT-23                                              86.3600  -109.7280    0.0000  top
+Q56       SS8550         SOT-23                                             121.0900  -109.8900    0.0000  top
+Q57       SS8550         SOT-23                                              82.0420  -109.7280    0.0000  top
+Q58       SS8550         SOT-23                                             115.8951  -109.7483    0.0000  top
+Q59       SS8550         SOT-23                                              77.9780  -109.7280    0.0000  top
+Q60       SS8550         SOT-23                                             112.1900  -109.8900    0.0000  top
+R1        1M             R_0402_NoSilk                                      132.4930  -130.8510  180.0000  top
+R2        22k            R_0402_NoSilk                                      133.6080  -124.2760  270.0000  top
+R3        100k           R_0805_HandSoldering                               123.7480  -139.4260   90.0000  top
+R4        10k            R_0805_HandSoldering                               115.0730  -125.2010    0.0000  top
+R5        10k            R_0805_HandSoldering                               113.4980  -128.5510   90.0000  top
+R6        47k            R_0805_HandSoldering                               115.0730  -123.0510  180.0000  top
+R7        10k            R_0805_HandSoldering                               114.8980  -133.3510    0.0000  top
+R8        100k           R_0805_HandSoldering                               136.3726  -137.6426   90.0000  top
+R9        1.5k           R_0805_HandSoldering                                80.4680  -131.3660  270.0000  top
+R10       10k            R_0805_HandSoldering                               121.4180  -134.0960  180.0000  top
+R11       470R           R_0805_HandSoldering                                65.7380  -132.3260   90.0000  top
+R12       10k            R_0805_HandSoldering                               125.6700  -132.4800  180.0000  top
+R13       47k            R_0805_HandSoldering                               125.6500  -130.5500    0.0000  top
+R14       10k            R_0805_HandSoldering                               114.8730  -135.1010    0.0000  top
+R15       220R           R_0805_HandSoldering                               108.4580  -105.6640   90.0000  top
+R16       220R           R_0805_HandSoldering                                74.6760  -105.6640   90.0000  top
+R17       220R           R_0805_HandSoldering                               144.3600  -105.5100   90.0000  top
+R18       10k            R_0805_HandSoldering                               142.1700  -105.5100  270.0000  top
+R19       10k            R_0805_HandSoldering                               105.6640  -105.6640  270.0000  top
+R20       10k            R_0805_HandSoldering                                72.1360  -105.6640  270.0000  top
+R21       220R           R_0805_HandSoldering                               103.8860  -105.6640   90.0000  top
+R22       220R           R_0805_HandSoldering                                70.3580  -105.6640   90.0000  top
+R23       220R           R_0805_HandSoldering                               140.3900  -105.5100   90.0000  top
+R24       10k            R_0805_HandSoldering                               137.3700  -105.5800  270.0000  top
+R25       10k            R_0805_HandSoldering                               101.3460  -105.6640  270.0000  top
+R26       10k            R_0805_HandSoldering                                67.8180  -105.6640  270.0000  top
+R27       220R           R_0805_HandSoldering                                99.5680  -105.6640   90.0000  top
+R28       220R           R_0805_HandSoldering                                66.0400  -105.6640   90.0000  top
+R29       220R           R_0805_HandSoldering                               135.5600  -105.5900   90.0000  top
+R30       10k            R_0805_HandSoldering                               132.5880  -105.6640  270.0000  top
+R31       10k            R_0805_HandSoldering                                97.2820  -105.6640  270.0000  top
+R32       10k            R_0805_HandSoldering                                63.5000  -105.6640  270.0000  top
+R33       220R           R_0805_HandSoldering                                95.5040  -105.6640   90.0000  top
+R34       220R           R_0805_HandSoldering                                61.7220  -105.6640   90.0000  top
+R35       220R           R_0805_HandSoldering                               130.8100  -105.6640   90.0000  top
+R36       10k            R_0805_HandSoldering                               128.2700  -105.6640  270.0000  top
+R37       10k            R_0805_HandSoldering                                93.2180  -105.6640  270.0000  top
+R38       10k            R_0805_HandSoldering                                58.9280  -105.6640  270.0000  top
+R39       220R           R_0805_HandSoldering                               126.4920  -105.6640   90.0000  top
+R40       220R           R_0805_HandSoldering                                87.3760  -105.6640   90.0000  top
+R41       220R           R_0805_HandSoldering                               122.1740  -105.6640   90.0000  top
+R42       10k            R_0805_HandSoldering                               123.9520  -105.6640  270.0000  top
+R43       10k            R_0805_HandSoldering                                89.1540  -105.6640  270.0000  top
+R44       220R           R_0805_HandSoldering                                83.0580  -105.6640   90.0000  top
+R45       220R           R_0805_HandSoldering                               117.8560  -105.6640   90.0000  top
+R46       220R           R_0805_HandSoldering                                78.9940  -105.6640   90.0000  top
+R47       220R           R_0805_HandSoldering                               113.0300  -105.6640   90.0000  top
+R48       10k            R_0805_HandSoldering                               119.6340  -105.6640  270.0000  top
+R49       10k            R_0805_HandSoldering                                84.8360  -105.6640  270.0000  top
+R50       220R           R_0805_HandSoldering                                91.4400  -105.6640   90.0000  top
+R51       10k            R_0805_HandSoldering                                89.5700  -131.8400  270.0000  top
+R54       10k            R_0805_HandSoldering                               114.8080  -105.6640  270.0000  top
+R55       10k            R_0805_HandSoldering                                80.7720  -105.6640  270.0000  top
+R60       10k            R_0805_HandSoldering                               110.2360  -105.6640  270.0000  top
+R61       10k            R_0805_HandSoldering                                76.4540  -105.6640  270.0000  top
+U1        AMS1117-3V3    SOT-223                                             55.6280  -132.5160  180.0000  top
+U2        STM32F103VETx  LQFP-100_14x14mm_Pitch0.5mm                        101.0980  -132.8260   90.0000  top
+U3        nrf24l01       QFN-20-1EP_4x4mm_Pitch0.5mm_smaller_internal_pad   131.6650  -127.7430    0.0000  top
+U4        LM393          SOIC-8_3.9x4.9mm_Pitch1.27mm                       118.4480  -129.8010    0.0000  top
+Y1        8 MHz          Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering      116.1080  -140.1260  180.0000  top
+Y2        32.768 kHz     Crystal_SMD_3215-2pin_3.2x1.5mm                     88.5180  -139.9360    0.0000  top
+Y3        16 MHz         Crystal_SMD_3225-4pin_3.2x2.5mm                    132.5430  -132.8510    0.0000  top
+## End
