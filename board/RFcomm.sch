@@ -354,15 +354,15 @@ F 3 "" H 7150 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 7050 2950 0    60   Input ~ 0
-PB13
+PA5
 Text GLabel 7050 3250 0    60   Input ~ 0
-PB14
+PA6
 Text GLabel 7050 3100 0    60   Input ~ 0
-PB15
+PA7
 Text GLabel 7050 2800 0    60   Input ~ 0
-PB12
+PA2
 Text GLabel 7250 3450 3    60   Input ~ 0
-PB11
+PA4
 Wire Wire Line
 	6400 2850 6400 2700
 Wire Wire Line

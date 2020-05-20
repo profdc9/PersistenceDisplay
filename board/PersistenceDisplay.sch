@@ -272,7 +272,7 @@ F 4 "C17414" V 3600 5000 60  0001 C CNN "LCSC"
 	1    0    0    1   
 $EndComp
 Text GLabel 3600 5700 3    60   Input ~ 0
-PA1
+PB0
 $Comp
 L GND #PWR2
 U 1 1 5EA58F60
@@ -356,7 +356,7 @@ F 4 "C17414" V 6000 5000 60  0001 C CNN "LCSC"
 	1    0    0    1   
 $EndComp
 Text GLabel 6000 5700 3    60   Input ~ 0
-PA2
+PB1
 $Comp
 L LM393 U4
 U 2 1 5EA59B87
