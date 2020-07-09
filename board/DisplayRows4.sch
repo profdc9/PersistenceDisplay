@@ -36,11 +36,12 @@ LIBS:stm32f103c8t6
 LIBS:AMS1117-3V3
 LIBS:nrf24l01
 LIBS:MCU_ST_STM32F1
+LIBS:oh137
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 7 10
+Sheet 7 9
 Title ""
 Date ""
 Rev ""

@@ -1,4 +1,4 @@
-update=6/5/2020 7:44:12 AM
+update=7/9/2020 12:10:39 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,6 +66,7 @@ LibName34=stm32f103c8t6
 LibName35=AMS1117-3V3
 LibName36=nrf24l01
 LibName37=MCU_ST_STM32F1
+LibName38=oh137
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
